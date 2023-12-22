@@ -1,2 +1,2 @@
-#A simple nodejs quotes CLI made from typefit quotes API
+A simple nodejs quotes CLI made from typefit quotes API
 
